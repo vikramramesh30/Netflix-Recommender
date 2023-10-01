@@ -1,0 +1,4 @@
+
+1. There was nothing that I was unable to finish and no bugs that I weren't able to fix. No banned STL components either.
+
+2. For Treemm.h, I tested the Insert Method and Deleting Method with multiple nodes. For the find method, I tested with different trees to see if it worked on all scenarios. I then tested to make sure all the functions worked as necessary. I then tested UserDatabase and MovieDatabase by giving it sample users.txt and movies.txt and see it could read them before giving it the full file. I then tested recommender with different movies to see if it would result in the correct recommendations. 
